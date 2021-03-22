@@ -19,7 +19,7 @@ import React from 'react';
          } if (!values.password) {
              errors.password = 'Required';
          } else if (values.password.length < 8) {
-             errors.password = 'Password too short';
+             errors.password = 'Password  is too short';
          }
          return errors;
        }}
