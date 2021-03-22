@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactionary/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/reactionary/static/js/main.9e735844.chunk.js",
-    "main.js.map": "/reactionary/static/js/main.9e735844.chunk.js.map",
+    "main.js": "/reactionary/static/js/main.3713c6c6.chunk.js",
+    "main.js.map": "/reactionary/static/js/main.3713c6c6.chunk.js.map",
     "runtime-main.js": "/reactionary/static/js/runtime-main.6dd22e37.js",
     "runtime-main.js.map": "/reactionary/static/js/runtime-main.6dd22e37.js.map",
     "static/js/2.12fec85a.chunk.js": "/reactionary/static/js/2.12fec85a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6dd22e37.js",
     "static/js/2.12fec85a.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.9e735844.chunk.js"
+    "static/js/main.3713c6c6.chunk.js"
   ]
 }
